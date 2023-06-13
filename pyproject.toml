@@ -12,6 +12,7 @@ django = "^4.2.2"
 python-dotenv = "^1.0.0"
 aiogram = "^2.25.1"
 psycopg2-binary = "^2.9.6"
+django-jazzmin = "^2.6.0"
 
 
 [build-system]
